@@ -1,0 +1,7 @@
+# build output
+/adbdav
+/Adbdav.app/
+
+# benchmark output is machine-specific; RESULTS.md is committed deliberately
+# so the README's numbers can be traced to a run, but local re-runs are not
+/bench/*.local.md
